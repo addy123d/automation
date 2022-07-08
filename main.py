@@ -1,3 +1,5 @@
+# https://selenium-python.readthedocs.io/getting-started.html
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
